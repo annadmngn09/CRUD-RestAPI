@@ -1,2 +1,2 @@
 # CRUD-RestAPI
-A simple CRUD operation
+A simple CRUD operations
