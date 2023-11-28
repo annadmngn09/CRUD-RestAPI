@@ -1,0 +1,39 @@
+{ 
+"products" : [
+  {
+    "id": "1",
+    "product": "Crayons",
+    "quantity": 50,
+    "brand": "Crayola",
+    "price": "34"
+  },
+  {
+    "id": "2",
+    "product": "Pencil",
+    "quantity": "30",
+    "brand": "Mongol",
+    "price": "12"
+  },
+  {
+    "id": 3,
+    "product": "Watercolor",
+    "quantity": 20,
+    "brand": "Prang",
+    "price": 281
+  },
+  {
+    "id": 4,
+    "product": "Sharpener",
+    "quantity": "45",
+    "brand": "Mapped",
+    "price": "15"
+  },
+  {
+    "id": "1",
+    "product": "Sketchpad",
+    "quantity": "15",
+    "brand": "Berkley",
+    "price": "210"
+  }
+]
+}
